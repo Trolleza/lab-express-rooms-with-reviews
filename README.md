@@ -24,7 +24,7 @@ First of all, we need to separate our Frontend from our Backend. Let's create tw
 
 "Link to your backend repository here:
 
-Link to your frontend repository here:""
+Link to your frontend repository here:"https://github.com/Trolleza/lab-express-rooms-client"
 
 Just paste the link (A Markdown link, just research how to create links inside Markdown) to your backend and frontend repositories in front of the correct phrase.
 

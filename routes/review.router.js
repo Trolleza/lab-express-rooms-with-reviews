@@ -32,7 +32,7 @@ router.get("/room/:id/review", async (req, res) => {
       _id: req.params.id,
     }).populate("reviews");
 
-    return res.status(200).json(reviewsList);
+    return res.status(200).json(reviewsList.reviwes);
   } catch (err) {
     console.error(err);
     return res.status(500).json({ msg: err });
